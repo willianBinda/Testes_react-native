@@ -1,0 +1,11 @@
+version: '3'
+services:
+  app:
+    build: .
+    command: npm start
+    ports:
+      - 8081:8081
+    volumes:
+      - .:/usr/app
+    
+      # volumes espelha as pastas pasta raiz para a pasta que foi criada no dokcerfile

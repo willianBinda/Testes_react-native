@@ -1,0 +1,20 @@
+{
+	"Componente Funcional": {
+		"scope": "javascript,typescript",
+		"prefix": "initial",
+		"body": [
+			"import React from 'react'",
+			"import { View, Text } from 'react-native'",
+			"",
+			"export default props =>{",
+			"    return(",
+			"        <View>",
+			"            <Text></Text>",
+			"        </View>",
+			"    )",
+			"}",
+		],
+		"description": "Log output to console"
+	}
+}
+

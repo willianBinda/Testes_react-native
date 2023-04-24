@@ -1,0 +1,18 @@
+[
+  {
+    "id": 9239391625,
+    "nome": "willian",
+    "email": "binda",
+    "dados": {},
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6OTIzOTM5MTYyNSwiaWF0IjoxNjYzOTU3MTQ0fQ.iPCDKPBB3tCtjDN9V_02FOI-TaPDdKpx-xEfKpSyfcQ",
+    "hash": "$2b$10$a4nsZAv74aian5RizTnseONpqZkpGti8birPZbYrep/SBJl/BtKlq"
+  },
+  {
+    "id": 2542852764,
+    "nome": "binda",
+    "email": "admin@gmail.com",
+    "dados": {},
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjU0Mjg1Mjc2NCwiaWF0IjoxNjYzOTU3ODMxfQ.eB7b2NOvr1j77ImSHPBNlBfabeOWa_Rxw12bLvmEfMM",
+    "hash": "$2b$10$g/l11MGvd7K8cxvszab5DOr4tEqo5WCYls18Ef7u5J5FsKZ1ydA56"
+  }
+]

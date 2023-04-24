@@ -1,0 +1,14 @@
+version: '3'
+services:
+  app:
+    build: .
+    container_name: node_server
+    command: npm start
+    ports:
+      - "${PORT}:${PORT}"
+    volumes:
+      - .:/usr/app
+    # environment:
+    #   NODE_ENV: development
+    
+      # volumes espelha as pastas pasta raiz para a pasta que foi criada no dokcerfile
